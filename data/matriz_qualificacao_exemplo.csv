@@ -1,0 +1,7 @@
+Matricula,Celula,Nivel,Validade
+1001,Linha_Montagem_A,U,2027-06-30
+1001,Prensa_B,L,2027-06-30
+1002,Prensa_B,O,2027-12-31
+1002,Solda_C,I,2027-03-31
+1003,Solda_C,U,2025-01-31
+1003,Linha_Montagem_A,U,2027-01-15

@@ -1,0 +1,23 @@
+# Ambiente virtual e caches do Python
+.venv/
+__pycache__/
+.pytest_cache/
+
+# Arquivos do macOS
+.DS_Store
+
+# Dados biometricos e historico (LGPD): nunca publicar
+dataset/
+data/encodings.npz
+data/encodings.pkl
+registros/
+
+# Modelos (baixados por baixar_modelos.py)
+modelos/*.onnx
+
+# Dados reais de operadores e matriz (so os arquivos *_exemplo.csv vao para o GitHub)
+data/operadores.csv
+data/matriz_qualificacao.csv
+
+# Relatorio do trabalho (cita pessoas e resultados reais)
+relatorio/
